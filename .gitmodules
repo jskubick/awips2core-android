@@ -1,3 +1,6 @@
 [submodule "awips2-core"]
 	path = awips2-core
 	url = https://github.com/jskubick/awips2-core
+[submodule "awips2-core-foss"]
+	path = awips2-core-foss
+	url = https://github.com/unidata/awips2-core-foss

@@ -1,0 +1,5 @@
+include ":awips2core"
+include ':app'
+
+project(':awips2core').projectDir = new File('./awips2-core')
+//project(':ufCommonUtil').projectDir = new File('./common/com.raytheon.uf.common.util')

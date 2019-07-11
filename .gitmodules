@@ -1,0 +1,3 @@
+[submodule "awips2-core"]
+	path = awips2-core
+	url = https://github.com/jskubick/awips2-core
